@@ -16,7 +16,7 @@ public class Pruebaq {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola mundo y Adios Mundo");
+        System.out.println("Hola este es una prueba de el proyecto");
     }
     
 }
